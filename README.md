@@ -48,7 +48,7 @@ model.train(data='your_dataset.yaml', epochs=50, imgsz=640)
 ### Sample Prediction
 Below is a sample result of instance segmentation using YOLOv11
 
-![Predicted Image](predicted.png)
+![Predicted Image](predicted.jpg)
 
 ## Repository Structure
 ```
