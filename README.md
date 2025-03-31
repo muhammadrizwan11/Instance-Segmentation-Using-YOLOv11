@@ -50,6 +50,10 @@ Below is a sample result of instance segmentation using YOLOv11
 
 ![Predicted Image](predicted.jpg)
 
+
+
+[Watch the video](full.mp4)
+
 ## Repository Structure
 ```
 Instance-Segmentation-Using-YOLOv11/
