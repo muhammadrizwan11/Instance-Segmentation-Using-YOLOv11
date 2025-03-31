@@ -52,7 +52,7 @@ Below is a sample result of instance segmentation using YOLOv11
 
 
 
-[Watch the video](full.mp4)
+![Watch the video](full.mp4)
 
 ## Repository Structure
 ```
